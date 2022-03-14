@@ -1,3 +1,4 @@
 Hello Everyone
 Welcome to git sessions
 we are disucssing about merge conflicts class
+this is developer1 code change
